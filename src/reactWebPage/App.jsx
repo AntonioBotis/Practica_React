@@ -1,6 +1,6 @@
 import CoreConcepts from "./components/CoreConcepts";
 import Header from "./components/Header/Header";
-import Examples from "./components/Examples/Examples";
+import Examples from "./reactWebPage/components/Examples/Examples";
 
 
 
